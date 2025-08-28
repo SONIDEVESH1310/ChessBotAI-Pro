@@ -12,7 +12,7 @@ env.bak/
 venv.bak/
 
 # Environment variables
-# .env
+.env
 
 # Streamlit cache
 .streamlit/
